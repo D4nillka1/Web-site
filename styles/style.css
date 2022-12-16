@@ -48,15 +48,15 @@ header{
 }
 .top-menu li{
 display: inline-block;
-margin-left: 25px;
+margin-right: 15px;
+text-align: center;
 }
 
 
 
 * {
     box-sizing: border-box;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
-  Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
   }
   
   
