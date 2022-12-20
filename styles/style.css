@@ -241,4 +241,15 @@ text-align: center;
     }
   }
   
+.listi{
+  text-align: center;
+  margin-bottom: 10px;
+  
+}
 
+.list{
+  border: solid;
+  border-style: double;
+  border-radius: 4px;
+  
+}
