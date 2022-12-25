@@ -491,7 +491,7 @@ input[name="w"] {
 .block1{
   font-size: 15px;
   padding: 10px;
-  margin-top: 70px ;
+  margin-top: 80px ;
   margin-left: 44px;
   margin-bottom: 200px;
   border: rgb(255, 255, 255) 5px;
@@ -503,7 +503,7 @@ input[name="w"] {
 .block2{
   font-size: 15px;
   padding: 10px;
-  margin-top: 70px ;
+  margin-top: 80px ;
   margin-left: 20px;
   margin-bottom: 200px;
   border: orange 5px;
@@ -522,7 +522,7 @@ input[name="w"] {
 .rightkart{
   border-radius: 5px;
   margin-left: 475px;
-  margin-top: 100px;
+  margin-top: 115px;
 }
 
 .righttext{
