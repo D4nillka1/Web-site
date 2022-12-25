@@ -38,20 +38,15 @@ article3{
   width: 900px;
   margin-top: 50px;
   margin-left: 200px;
+  margin-bottom: 20px;
   border-radius: 15px;
   background-color: #ebebeb;
   
 }
 
-sidebar{
-  display: flex;
-  height: 550px;
-  width: 1500px;
-  margin-top: 50px;
-  margin-left: 200px;
-  border-radius: 15px;
-  background-color: #3d3c3c;
-}
+
+
+
 
 a{
     color: white;
@@ -100,6 +95,15 @@ text-align: center;
 * {
     box-sizing: border-box;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+  }
+
+  .gltitle{
+    margin-top: 0;
+    font-size: 30px ;
+    color: rgb(135, 100, 179);
+    text-align: center;;
+    
+    
   }
   
   .category{
@@ -477,19 +481,19 @@ input[name="w"] {
 }
 
 .manor{
-  
+  position: absolute;
   font-size: 35px;
   color: rgb(255, 255, 255);
   margin-top: 9px ;
-  margin-left: 20px;
+  margin-left: 300px;
 }
 
 .block1{
   font-size: 15px;
   padding: 10px;
-  margin-top: 80px ;
-  margin-left: 48px;
-  margin-bottom: 100px;
+  margin-top: 70px ;
+  margin-left: 44px;
+  margin-bottom: 200px;
   border: rgb(255, 255, 255) 5px;
   border-radius: 10px;
   background-color: rgb(255, 255, 255);
@@ -499,9 +503,9 @@ input[name="w"] {
 .block2{
   font-size: 15px;
   padding: 10px;
-  margin-top: 80px ;
+  margin-top: 70px ;
   margin-left: 20px;
-  margin-bottom: 150px;
+  margin-bottom: 200px;
   border: orange 5px;
   border-radius: 10px;
   background-color: orange;
@@ -517,8 +521,8 @@ input[name="w"] {
 
 .rightkart{
   border-radius: 5px;
-  margin-left: 300px;
-  margin-top: 118px;
+  margin-left: 475px;
+  margin-top: 100px;
 }
 
 .righttext{
@@ -538,12 +542,12 @@ input[name="w"] {
   
   font-size: 32px;
   margin-left: 80px;
-  margin-top: 80px;
+  margin-top: 30px;
 }
 
 .obzor{
   text-decoration:none ;
-  font-size: 20px;
+  font-size: 18px;
   margin-top: 20px;
   margin-left: 80px;
   margin-right: 80px;
