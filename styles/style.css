@@ -117,6 +117,8 @@ text-align: center;
   }
   
   .kart{
+    height: 400px;
+    width: 220px;
     border: solid;
     color: white;
     padding: 0;
