@@ -44,6 +44,16 @@ article3{
   
 }
 
+article4{
+  display: flex;
+  height: 650px;
+  width: 1500px;
+  margin-top: 20px;
+  margin-left: 200px;
+  margin-bottom: 30px;
+  border-radius: 15px;
+  background-color: #e6e6e6;
+}
 
 
 
@@ -567,3 +577,102 @@ input[name="w"] {
   padding-top: 0px;
   text-decoration:none ;
 }
+
+.glnews{
+  margin-top: 23px;
+  margin-left: 75px ;
+  border: solid 2px white; 
+  height: 500px;
+  width: 600px;
+  transition: 0.6s;
+}
+
+.glnews:hover{
+  transform:scale(1.01);
+}
+
+.glnimg{
+  margin-top: 50px;
+  margin-left: 80px;
+
+}
+
+
+.glzagolowok{
+  font-size: 22px;
+  color: white;
+  text-align: center;
+ 
+}
+
+
+.news{
+  margin-top: 23px;
+  margin-left: 5px ;
+  border: solid 2px white; 
+  height: 250px;
+  width: 360px;
+  transition: 0.6s;
+}
+
+.news:hover{
+  transform:scale(1.01);
+}
+
+.nimg{
+    margin-top: 50px;
+    margin-left: 70px;
+}
+
+.zagolowok{
+  font-size: 12px;
+  color: white;
+  text-align: center;
+  margin: 3px;
+ 
+}
+
+.news2{
+  margin-top: 2px;
+  margin-left: 5px ;
+  border: solid 2px white; 
+  height: 248px;
+  width: 360px;
+  transition: 0.6s;
+}
+
+.news2:hover{
+  transform:scale(1.01);
+}
+
+.cyber{
+  color: rgb(36, 36, 36);
+  font-size: 40px;
+  margin-top: 40px;
+  margin-left: 75px;
+}
+
+
+.cyberimg1{
+  margin-top: 30px;
+  margin-left: 20px;
+}
+
+.cyberopis{
+  color: rgb(0, 26, 255);
+  font-size: 19px;
+  width: 200px;
+  float: right;
+  margin-top: 28px;
+  margin-left: 20px;
+}
+
+.cyberopis:hover{
+  text-decoration: underline;
+}
+
+.cyberblock2{
+ margin-top: 90px;
+}
+
+
