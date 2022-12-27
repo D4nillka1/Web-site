@@ -55,6 +55,16 @@ article4{
   background-color: #e6e6e6;
 }
 
+article20{
+  display: flex;
+  height: 320px;
+  width: 1500px;
+  margin-top: 50px;
+  margin-left: 200px;
+  border-radius: 15px;
+  background-color: #393939;
+}
+
 
 
 
@@ -94,6 +104,12 @@ header{
     margin: 0;
     padding: 0;
 }
+
+.logo{
+  text-align: center;
+}
+
+
 .top-menu li{
 display: inline-block;
 margin-right: 15px;
@@ -107,13 +123,20 @@ text-align: center;
     font-family: 'Roboto', sans-serif;
   }
 
-  .gltitle{
+  .about{
     margin-top: 0;
-    font-size: 30px ;
-    color: rgb(135, 100, 179);
+    font-size: 25px ;
+    color: white;
     text-align: center;;
     
     
+  }
+  
+  .about2{
+    margin-top: 0;
+    font-size: 20px;
+    color: white;
+    text-align: center;
   }
   
   .category{
