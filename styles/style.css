@@ -55,6 +55,16 @@ article4{
   background-color: #e6e6e6;
 }
 
+article5{
+  display: flex;
+  width: 1200px;
+  margin-top: 50px;
+  margin-left: 310px;
+  margin-bottom: 30px;
+  border-radius: 15px;
+  background-color: #e4e4e4;
+}
+
 
 
 
@@ -678,3 +688,26 @@ input[name="w"] {
 }
 
 
+.zagolovok{
+  text-align: center;
+  margin-left: 210px;
+  font-size: 30px;
+  width: 700px;
+}
+
+.newsimg{
+  margin-left: 200px;
+  border-radius: 15px ;
+}
+
+.opisnews{
+  font-size: 18px;
+  color: #000000;
+  text-align: left;
+  width: 805px;
+  margin-left: 200px;
+}
+
+.newsvideo{
+  margin-left: 250px;
+}
